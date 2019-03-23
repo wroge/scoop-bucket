@@ -1,0 +1,21 @@
+{
+    "version": "0.0.6",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/wroge/wms/releases/download/v0.0.6/wms_0.0.6_Windows_i386.tar.gz",
+            "bin": [
+                "wms.exe"
+            ],
+            "hash": "deac8fe703b48575d1d7eaca143e087056f315d3776d045ce3b3682c7ec5087e"
+        },
+        "64bit": {
+            "url": "https://github.com/wroge/wms/releases/download/v0.0.6/wms_0.0.6_Windows_x86_64.tar.gz",
+            "bin": [
+                "wms.exe"
+            ],
+            "hash": "0bc1d71263958fe8f62fb7814cef31178efed1e4ed2f45a7afd85278d3d1ef13"
+        }
+    },
+    "homepage": "https://github.com/wroge/wms",
+    "description": "Extension for easy use of Web Map Services."
+}
