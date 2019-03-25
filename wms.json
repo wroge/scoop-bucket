@@ -1,19 +1,19 @@
 {
-    "version": "0.0.7",
+    "version": "0.0.8",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/wroge/wms/releases/download/v0.0.7/wms_0.0.7_Windows_i386.tar.gz",
+            "url": "https://github.com/wroge/wms/releases/download/v0.0.8/wms_0.0.8_Windows_i386.tar.gz",
             "bin": [
                 "wms.exe"
             ],
-            "hash": "baa3322687c1500dadd52b7832bb00f2a7e9c58409bc228dec44b14476e50758"
+            "hash": "89b535feeda3cafda86fd601043e583882b1d02a5a3198390e0cb32403dfb507"
         },
         "64bit": {
-            "url": "https://github.com/wroge/wms/releases/download/v0.0.7/wms_0.0.7_Windows_x86_64.tar.gz",
+            "url": "https://github.com/wroge/wms/releases/download/v0.0.8/wms_0.0.8_Windows_x86_64.tar.gz",
             "bin": [
                 "wms.exe"
             ],
-            "hash": "7f51feb4b2521d3f1e76a9c2fe93652395a2b9cd58bbe864a5df0300d16b7585"
+            "hash": "b26e08bdd66282d76f0635353549ef052504c1a3c43727c9b9bedbecf9d3e7ba"
         }
     },
     "homepage": "https://github.com/wroge/wms",
