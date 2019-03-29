@@ -1,21 +1,21 @@
 {
-    "version": "0.0.12",
+    "version": "0.0.13",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/wroge/wms/releases/download/v0.0.12/wms_0.0.12_Windows_i386.tar.gz",
+            "url": "https://github.com/wroge/wms/releases/download/v0.0.13/wms_0.0.13_Windows_i386.tar.gz",
             "bin": [
                 "wms.exe"
             ],
-            "hash": "800255822b05ed37017bf3715a913a2e787d3ca621291b2dbc121c515022e92f"
+            "hash": "89795f98b2402c77c0b9002ab237eb986e1af10dbe0577840fc8bfd68aa9f77d"
         },
         "64bit": {
-            "url": "https://github.com/wroge/wms/releases/download/v0.0.12/wms_0.0.12_Windows_x86_64.tar.gz",
+            "url": "https://github.com/wroge/wms/releases/download/v0.0.13/wms_0.0.13_Windows_x86_64.tar.gz",
             "bin": [
                 "wms.exe"
             ],
-            "hash": "ad22b40e0a136909ee9de3be02453d3d804158e1aa48cc7e2e3b4fcf3cf891e8"
+            "hash": "a3b92450a9f28939824d3b02eec263350c4b2063c49d9ede77fdf645b40e53c3"
         }
     },
     "homepage": "https://github.com/wroge/wms",
-    "description": "Extension for easy use of Web Map Services."
+    "description": "A command-line-tool to simplify the use of Web Map Services."
 }
