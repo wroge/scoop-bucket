@@ -6,14 +6,14 @@
             "bin": [
                 "epsg.exe"
             ],
-            "hash": "2b9f23e50f79efdc316a6e81005ea02aebf4d8aac4512aa72ef3e0718e36d3e3"
+            "hash": "da087c4b7db3e4af305479be2a9afa4c65912b4873a7674a189f26d772c11fa8"
         },
         "64bit": {
             "url": "https://github.com/wroge/epsg/releases/download/v1.0.0/epsg_1.0.0_Windows_x86_64.tar.gz",
             "bin": [
                 "epsg.exe"
             ],
-            "hash": "f1b97a4601a4ada5331b1350eab222aab29301f720fcfee8772a47fa69f1df13"
+            "hash": "2b1cc05113e1fa39c60472815780230231e49515975730ccd081027073fa9ed8"
         }
     },
     "homepage": "https://github.com/wroge/epsg/tree/master/epsg",
