@@ -1,0 +1,21 @@
+{
+    "version": "1.0.5",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/wroge/epsg/releases/download/v1.0.5/epsg_1.0.5_Windows_i386.tar.gz",
+            "bin": [
+                "wms.exe"
+            ],
+            "hash": "55001b1315417635f2f3295fd1ca4d88afa23ee89103c990c5aaf728566b46e2"
+        },
+        "64bit": {
+            "url": "https://github.com/wroge/epsg/releases/download/v1.0.5/epsg_1.0.5_Windows_x86_64.tar.gz",
+            "bin": [
+                "wms.exe"
+            ],
+            "hash": "e79beb39a73609d7c1183e54c4c5786aa078adb2de354cac1d7fda797817a607"
+        }
+    },
+    "homepage": "https://github.com/wroge/epsg/tree/master/epsg",
+    "description": "A command-line-tool to convert coordinates between epsg codes."
+}
