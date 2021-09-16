@@ -1,21 +1,22 @@
 {
-    "version": "0.0.14",
+    "version": "0.0.17",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/wroge/wms/releases/download/v0.0.14/wms_0.0.14_Windows_i386.tar.gz",
+            "url": "https://github.com/wroge/wms/releases/download/v0.0.17/wms_Windows_i386.zip",
             "bin": [
                 "wms.exe"
             ],
-            "hash": "71e839cb95a3bb5a1a03ff2b6e618df26641b4f15d932b09fce75984b537b6d9"
+            "hash": "ce17ed5993cc04ddb0f815a681ecbd0c5f91791a02a672427ef60b7c648b9d7a"
         },
         "64bit": {
-            "url": "https://github.com/wroge/wms/releases/download/v0.0.14/wms_0.0.14_Windows_x86_64.tar.gz",
+            "url": "https://github.com/wroge/wms/releases/download/v0.0.17/wms_Windows_x86_64.zip",
             "bin": [
                 "wms.exe"
             ],
-            "hash": "1286c8480f4f99173c4d28765b8a5c72f4551e3e23692cade87d13b74e361f1b"
+            "hash": "5759c1d575b134f6e56613d6f7978188aa57220249e092c18f398579190068c5"
         }
     },
     "homepage": "https://github.com/wroge/wms",
+    "license": "MIT",
     "description": "A command-line-tool to simplify the use of Web Map Services."
 }
